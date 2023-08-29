@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohamad farjoudy
 ========================================================================================================================================
-
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/vrxxqQbyRxYi6scCjT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-cartoon-tom-bug-vrxxqQbyRxYi6scCjT">via GIPHY</a></p>
 Frontend developer
 ------------------
-<iframe src="https://giphy.com/embed/vrxxqQbyRxYi6scCjT" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cartoon-tom-bug-vrxxqQbyRxYi6scCjT">via GIPHY</a></p>
 i've been learning to code for 4 years, after switching careers.I started with HTML, but have really found a passion for backend development ...
 
 * 🌍  I'm based in Karaj
