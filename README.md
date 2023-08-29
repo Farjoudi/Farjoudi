@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohamad farjoudy
 ========================================================================================================================================
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/vrxxqQbyRxYi6scCjT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-cartoon-tom-bug-vrxxqQbyRxYi6scCjT">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" align="center" >
 Frontend developer
 ------------------
 i've been learning to code for 4 years, after switching careers.I started with HTML, but have really found a passion for backend development ...
