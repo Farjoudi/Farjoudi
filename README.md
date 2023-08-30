@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/Mohamadrezafarjoudy?logo=github&sty
 
 ### Badges
 
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0zOWw2dm14cXdoaDhtdjRpcmxrMG93YzgyOXN6dTVma3J5bnJydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="450" align="center" >
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mohamadrezafarjoudy"><img src="https://github-readme-stats.vercel.app/api?username=Mohamadrezafarjoudy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohamadrezafarjoudy's GitHub stats" /></a>
